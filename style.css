@@ -205,12 +205,17 @@ margin-top: 30px;
     color: #601cfc;
 }
 
+.contact{
+    color: #3a6cf4;
+}
+
 .contact .icon{
    font-size: 4.5em; 
 }
 
 .contact .info p{
     font-size: 1.5em;
+    color: #000;
 }
 
 .footer {
